@@ -1,0 +1,3 @@
+[{ caseType: "SLP (Civil)" }, { caseType: "SLP (Criminal) " }
+    , { caseType: "Writ Petition (Civil)" }, { caseType: "Writ Petition(Criminal)" }, { caseType: "Civil Appeal" },
+{ caseType: "Criminal Appeal" }, { caseType: "Transfer Petition (Civil)" }, { caseType: "Review Petition (Civil)" }]
